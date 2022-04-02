@@ -3,7 +3,7 @@
 
 ## Instruction
 This project is to create two EC2 instances (Baston Host and Private Host)
-Only Bastion Host can communicate with Private EC2,
+Only Bastion Host can communicate with Private EC2.
 
 This Terraform module includes.
 1. SSH key-pare.
