@@ -7,4 +7,4 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: Hello
-        run: mkdir test
+        run: mkdir test1
