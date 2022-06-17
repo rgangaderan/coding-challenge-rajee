@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello
-        run: mkdir -r test/raj/gha 
+        run: mkdir test
